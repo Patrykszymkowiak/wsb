@@ -1,0 +1,6 @@
+C:\xampp\htdocs\wsb-master\podstawy_programowania\1_firstProject\1_firstProject\bin\Debug\1_firstProject.exe.config
+C:\xampp\htdocs\wsb-master\podstawy_programowania\1_firstProject\1_firstProject\bin\Debug\1_firstProject.exe
+C:\xampp\htdocs\wsb-master\podstawy_programowania\1_firstProject\1_firstProject\bin\Debug\1_firstProject.pdb
+C:\xampp\htdocs\wsb-master\podstawy_programowania\1_firstProject\1_firstProject\obj\Debug\1_firstProject.csprojAssemblyReference.cache
+C:\xampp\htdocs\wsb-master\podstawy_programowania\1_firstProject\1_firstProject\obj\Debug\1_firstProject.exe
+C:\xampp\htdocs\wsb-master\podstawy_programowania\1_firstProject\1_firstProject\obj\Debug\1_firstProject.pdb
