@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\Funkcje\Funkcje\bin\Debug\netcoreapp3.0\Funkcje.exe
+C:\Users\student\source\repos\Funkcje\Funkcje\bin\Debug\netcoreapp3.0\Funkcje.deps.json
+C:\Users\student\source\repos\Funkcje\Funkcje\bin\Debug\netcoreapp3.0\Funkcje.runtimeconfig.json
+C:\Users\student\source\repos\Funkcje\Funkcje\bin\Debug\netcoreapp3.0\Funkcje.runtimeconfig.dev.json
+C:\Users\student\source\repos\Funkcje\Funkcje\bin\Debug\netcoreapp3.0\Funkcje.dll
+C:\Users\student\source\repos\Funkcje\Funkcje\bin\Debug\netcoreapp3.0\Funkcje.pdb
+C:\Users\student\source\repos\Funkcje\Funkcje\obj\Debug\netcoreapp3.0\Funkcje.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Funkcje\Funkcje\obj\Debug\netcoreapp3.0\Funkcje.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Funkcje\Funkcje\obj\Debug\netcoreapp3.0\Funkcje.AssemblyInfo.cs
+C:\Users\student\source\repos\Funkcje\Funkcje\obj\Debug\netcoreapp3.0\Funkcje.dll
+C:\Users\student\source\repos\Funkcje\Funkcje\obj\Debug\netcoreapp3.0\Funkcje.pdb
