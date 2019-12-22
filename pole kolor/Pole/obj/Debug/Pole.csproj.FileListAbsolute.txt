@@ -1,0 +1,19 @@
+C:\Users\student\source\repos\Pole\Pole\bin\Debug\Pole.exe.config
+C:\Users\student\source\repos\Pole\Pole\bin\Debug\Pole.exe
+C:\Users\student\source\repos\Pole\Pole\bin\Debug\Pole.pdb
+C:\Users\student\source\repos\Pole\Pole\obj\Debug\Pole.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Pole\Pole\obj\Debug\Pole.Form1.resources
+C:\Users\student\source\repos\Pole\Pole\obj\Debug\Pole.Properties.Resources.resources
+C:\Users\student\source\repos\Pole\Pole\obj\Debug\Pole.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Pole\Pole\obj\Debug\Pole.exe
+C:\Users\student\source\repos\Pole\Pole\obj\Debug\Pole.pdb
+C:\Users\student\Desktop\asdf\pole kolor\Pole\bin\Debug\Pole.exe.config
+C:\Users\student\Desktop\asdf\pole kolor\Pole\bin\Debug\Pole.exe
+C:\Users\student\Desktop\asdf\pole kolor\Pole\bin\Debug\Pole.pdb
+C:\Users\student\Desktop\asdf\pole kolor\Pole\obj\Debug\Pole.csprojAssemblyReference.cache
+C:\Users\student\Desktop\asdf\pole kolor\Pole\obj\Debug\Pole.Form1.resources
+C:\Users\student\Desktop\asdf\pole kolor\Pole\obj\Debug\Pole.Color.resources
+C:\Users\student\Desktop\asdf\pole kolor\Pole\obj\Debug\Pole.Properties.Resources.resources
+C:\Users\student\Desktop\asdf\pole kolor\Pole\obj\Debug\Pole.csproj.GenerateResource.cache
+C:\Users\student\Desktop\asdf\pole kolor\Pole\obj\Debug\Pole.exe
+C:\Users\student\Desktop\asdf\pole kolor\Pole\obj\Debug\Pole.pdb
